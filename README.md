@@ -8,4 +8,4 @@ Ces API requierent une [authentification auprès de Force Réseau](https://githu
 
 ## Documentation
 
-La documentation de ces API se trouve dans [ce wiki](https://github.com/ntlm-technologies/fr.doc.accounting.api/wiki)
+La documentation de ces API se trouve dans [ce wiki](https://github.com/ntlm-technologies/fr.doc.accounting.api/wiki).
