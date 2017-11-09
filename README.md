@@ -1,6 +1,6 @@
 # fr.doc.accounting.api
 
-Documentation quant aux API relatives à la comptabilité Force Force Réseau
+Documentation quant aux API relatives à la comptabilité Force Force Réseau.
 
 ## Authentification auprès de Force Réseau
 
